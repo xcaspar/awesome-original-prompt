@@ -56,9 +56,9 @@ All new submissions must:
 [Relevant tags for searching]
 
 ## Prompt Content
-```
-[The full prompt text goes here]
-```
+    ```
+    [The full prompt text goes here]
+    ```
 
 ## Usage Example
 [Example of how to use this prompt]

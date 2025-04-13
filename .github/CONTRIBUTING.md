@@ -1,5 +1,5 @@
 # Contributing to the Prompt Repository
-
+[中文版](CONTRIBUTING_CN.md)
 Thank you for your interest in contributing to our Prompt Repository! This document provides guidelines for submitting new prompts and improving existing ones.
 
 ## How to Contribute
@@ -26,9 +26,9 @@ Thank you for your interest in contributing to our Prompt Repository! This docum
 [Relevant tags for searching]
 
 ## Prompt Content
-```
-[The full prompt text goes here]
-```
+    ```
+    [The full prompt text goes here]
+    ```
 
 ## Usage Example
 [Example of how to use this prompt]
