@@ -1,6 +1,8 @@
 # Prompt Repository License (PRL)
+[中文版](LICENSE_CN.md)
 
 Version 1.0, April 2025
+
 
 ## Definitions
 

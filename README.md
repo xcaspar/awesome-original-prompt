@@ -1,4 +1,5 @@
 # Awesome Prompt Repository
+[中文版](README_CN.md)
 
 A curated collection of high-quality prompts for AI language models with clear usage guidelines and author attribution requirements.
 
