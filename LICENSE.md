@@ -1,8 +1,7 @@
-# Prompt Repository License (PRL)
+# Original Prompt License (OPL)
 [中文版](LICENSE_CN.md)
 
 Version 1.0, April 2025
-
 
 ## Definitions
 
@@ -35,7 +34,7 @@ Version 1.0, April 2025
 
 5. **Derivative Works**
    - Users may create works based on original Prompts, but:
-     - Derivative works must be distributed under the same license terms (PRL)
+     - Derivative works must be distributed under the same license terms (OPL)
      - Derivative works must clearly indicate the original Prompt's author and source information
      - Commercial use of derivative works is subject to the restrictions in Section 4 of this license
 

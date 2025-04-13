@@ -34,7 +34,7 @@ Thank you for your interest in contributing to our Prompt Repository! This docum
 [Example of how to use this prompt]
 
 ## License
-This prompt follows the [Prompt Repository License (PRL)](../../LICENSE.md)
+This prompt follows the [Original Prompt License (OPL)](../../LICENSE.md)
 ```
 
 4. **Choose the Right Category**
@@ -57,7 +57,7 @@ This prompt follows the [Prompt Repository License (PRL)](../../LICENSE.md)
    - If adapting someone else's prompt, obtain permission and credit the original author
 
 3. **Licensing**
-   - By submitting a prompt, you agree to license it under the Prompt Repository License (PRL)
+   - By submitting a prompt, you agree to license it under the Original Prompt License (OPL)
    - You must have the right to submit the prompt under this license
 
 4. **Appropriate Content**

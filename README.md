@@ -27,7 +27,7 @@ This repository is dedicated to collecting, organizing, and sharing effective pr
    - Usage examples
    - Author information
 
-3. When using any prompt from this repository, you must follow the [Prompt Repository License (PRL)](LICENSE.md) requirements, including:
+3. When using any prompt from this repository, you must follow the [Original Prompt License (OPL)](LICENSE.md) requirements, including:
    - Attributing the original author
    - Linking back to the source
    - Following commercial usage restrictions
@@ -64,12 +64,12 @@ All new submissions must:
 [Example of how to use this prompt]
 
 ## License
-This prompt follows the [Prompt Repository License (PRL)](LICENSE.md)
+This prompt follows the [Original Prompt License (OPL)](LICENSE.md)
 ```
 
 ## License
 
-All prompts in this repository are licensed under the [Prompt Repository License (PRL)](LICENSE.md), which requires attribution, restricts self-media "original" branding, and requires permission for commercial use.
+All prompts in this repository are licensed under the [Original Prompt License (OPL)](LICENSE.md), which requires attribution, restricts self-media "original" branding, and requires permission for commercial use.
 
 ## Languages
 
